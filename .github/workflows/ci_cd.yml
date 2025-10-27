@@ -48,8 +48,6 @@ jobs:
           fi
 
 
-          yee haadaada
-
   deploy:
     name: Deploy & Push to Docker Hub
     needs: [backend_flask]
