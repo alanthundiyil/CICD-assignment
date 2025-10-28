@@ -61,8 +61,6 @@ jobs:
         - name: List repository files
           run: ls -al
         
-
-
     # Step 7: Build docker image 
     # Go to dockerhub.com
     # Create a new repository - backend_flask
